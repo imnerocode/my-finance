@@ -14,8 +14,7 @@ const styles = StyleSheet.create({
   topBarContainer: {
     backgroundColor: "black",
     flex: 0.2,
-    borderColor: "white",
-    borderWidth: 1,
+
     justifyContent: "center",
     alignItems: "center",
   },
